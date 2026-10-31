@@ -23,11 +23,11 @@
   <a href="https://github.com/Ryoku-dev/ryoku/blob/main/CONTRIBUTING.md">Contribute</a>
 </p>
 
-<img width="2731" height="1535" alt="image" src="https://github.com/user-attachments/assets/c36ce3da-3cc1-4db9-8e71-7ce4e1033ed2" />
+<img width="1333" height="745" alt="image" src="https://github.com/user-attachments/assets/96ccc2ce-f8e7-4176-8dc6-1742de6c71eb" />
 <img width="1333" height="745" alt="image" src="https://github.com/user-attachments/assets/a57c4cf4-6871-4490-99bd-27a8f6dec414" />
+<img width="1333" height="745" alt="image" src="https://github.com/user-attachments/assets/0a31a9b2-d04a-4a88-b0a5-ab4107ad5be7" />
+<img width="1333" height="745" alt="image" src="https://github.com/user-attachments/assets/92dd7d09-ef19-4798-842a-a0cd379e7af7" />
 
-<img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/e1f5b262-7b21-4cd7-98b2-fe0e8a3c97bc" />
-<img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/301c8c3d-03b8-4138-894a-3f6b951abab8" />
 
 
 
