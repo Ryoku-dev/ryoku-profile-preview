@@ -40,7 +40,6 @@
 
 <div align="center">
   <sub><a href="https://ryoku.dev/showroom">See the full showroom</a></sub>
-</div>
 
 
 ## Ryoku's Repos
