@@ -42,9 +42,8 @@
   <sub><a href="https://ryoku.dev/showroom">See the full showroom</a></sub>
 </div>
 
-<br />
 
-## Projects
+## Ryoku's Repos
 
 <table align="center">
   <thead>
