@@ -34,7 +34,7 @@
          <img width="1333" height="745" alt="image" src="https://github.com/user-attachments/assets/0a31a9b2-d04a-4a88-b0a5-ab4107ad5be7" />
       </td>
         <td width="33.33%">
-          <img width="1333" height="745" alt="image" src="https://github.com/user-attachments/assets/92dd7d09-ef19-4798-842a-a0cd379e7af7" />
+          <img width="1333" height="745" alt="image" src="https://github.com/user-attachments/assets/96ccc2ce-f8e7-4176-8dc6-1742de6c71eb" />
        </tr>
 </table>
 
