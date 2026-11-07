@@ -23,7 +23,8 @@
   <a href="https://github.com/Ryoku-dev/ryoku/blob/main/CONTRIBUTING.md">Contribute</a>
 </p>
 
-<img width="1333" height="745" alt="image" src="https://github.com/user-attachments/assets/96ccc2ce-f8e7-4176-8dc6-1742de6c71eb" />
+<img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/79d42bfc-450c-426b-a6c8-707f56b783ba" />
+
 
 <table>
   <tr>
